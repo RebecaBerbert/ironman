@@ -54,3 +54,5 @@ static ThemeData darkTheme = ThemeData(
  scaffoldBackgroundColor: backgroundDark,
  );
 }
+
+enum PasswordType {pin,standart}
